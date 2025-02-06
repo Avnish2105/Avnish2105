@@ -24,5 +24,3 @@ Welcome to my GitHub profile! I'm a passionate robotics enthusiast and currently
 
 Let's connect and collaborate on innovative projects!
 
-<iframe src="cursor-following.html" width="100%" height="500px" style="border:none;"></iframe>
-
