@@ -24,6 +24,5 @@ Welcome to my GitHub profile! I'm a passionate robotics enthusiast and currently
 
 Let's connect and collaborate on innovative projects!
 
-## 🎨 Cool Animation
-![Crazy Animation](https://avnish2105.github.io/cursor-following.html)  
-*(Hover over the animation for some fun effects!)*  
+<iframe src="cursor-following.html" width="100%" height="500px" style="border:none;"></iframe>
+
