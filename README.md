@@ -23,3 +23,7 @@ Welcome to my GitHub profile! I'm a passionate robotics enthusiast and currently
 - My journey into robotics started with **electronics hardware**, and I always double-check the electronics if the code isn't working!
 
 Let's connect and collaborate on innovative projects!
+
+## 🎨 Cool Animation
+![Crazy Animation](https://avnish2105.github.io/cursor-following.html)  
+*(Hover over the animation for some fun effects!)*  
